@@ -147,7 +147,8 @@
 </plugin>
         </plugins>
     </build>
-
+         
+</distributionManagement>
        <repository>
       <id>maven-releases</id>
       <name>maven-releases</name>
